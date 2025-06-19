@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_200">#FFEEEEEE</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_800">#FF424242</color>
+    <color name="gray_900">#FF212121</color>
+    
+    <!-- Theme Colors -->
+    <color name="primary">@color/black</color>
+    <color name="primary_variant">@color/gray_900</color>
+    <color name="on_primary">@color/white</color>
+    <color name="secondary">@color/gray_700</color>
+    <color name="secondary_variant">@color/gray_900</color>
+    <color name="on_secondary">@color/white</color>
+    <color name="background">@color/white</color>
+    <color name="surface">@color/white</color>
+    <color name="error">#FFB00020</color>
+</resources>
